@@ -1,0 +1,28 @@
+.student-info {
+  display: flex;
+  width: 70%;
+  margin: 30px auto;
+  justify-content: space-around;
+}
+
+ul {
+  list-style: none;
+}
+
+#result {
+  position: fixed;
+  background: white;
+  padding: 20px;
+  right: 20px;
+  top: 20px;
+}
+
+.bgGreen {
+  background: green;
+}
+
+.bgRed {
+  background: red;
+}
+
+/*# sourceMappingURL=style.css.map */
